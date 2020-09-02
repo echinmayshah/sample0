@@ -1,3 +1,3 @@
 #include "var.h"
 
-float var = 0;
+float var = 1;
