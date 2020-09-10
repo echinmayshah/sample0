@@ -3,5 +3,5 @@
 int main(void)
 {
 	Master  = 0;
-	Dev 	= d0;
+	Dev 	= d0; 
 }
