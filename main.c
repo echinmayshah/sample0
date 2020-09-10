@@ -2,8 +2,6 @@
 
 int main(void)
 {
-	int val = 0;
-	
-	val = var;
-	return 0;
+	Master  = 0;
+	Dev 	= 0;
 }
